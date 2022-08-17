@@ -10,4 +10,5 @@
 #https://github.com/jh-jeong/ContraD
 
 #Train the MCL model: python train.py --dataroot ./datasets/yourdata --name yourname_MCL --IMCL_mode imcl
+
 #Train the sinmcl model: python train.py --dataroot ./datasets/yourdata --name yourname_MCL --model sinmcl
